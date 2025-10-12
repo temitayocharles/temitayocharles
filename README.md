@@ -167,8 +167,8 @@ const temitayo = {
   <a href="https://github.com/temitayocharles/devops-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=devops-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
-  <a href="https://github.com/temitayocharles/stack-to-k8s">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=stack-to-k8s&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  <a href="https://github.com/temitayocharles/virtual-vacation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=virtual-vacation&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
 </div>
 
@@ -178,8 +178,8 @@ const temitayo = {
   <a href="https://github.com/temitayocharles/Fast-Kubernetes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=Fast-Kubernetes&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
-  <a href="https://github.com/temitayocharles/temitayocharles.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=temitayocharles.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  <a href="https://github.com/temitayocharles/ultimate-devops-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=ultimate-devops-site&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
 </div>
 
@@ -190,16 +190,16 @@ const temitayo = {
 <td align="center" width="50%">
 <h4>🏗️ Infrastructure & Automation</h4>
 <a href="https://github.com/temitayocharles/devops-portfolio">📂 DevOps Portfolio</a><br/>
-<a href="https://github.com/temitayocharles/TCA-InfraForge-GitOps">🔄 GitOps Pipeline</a><br/>
-<a href="https://github.com/temitayocharles/DockerNet-tca-infraforge">🐳 Docker Networking</a><br/>
-<a href="https://github.com/temitayocharles/python-demoapp">🐍 Python Container Demo</a>
+<a href="https://github.com/temitayocharles/infraforge-website">🌐 InfraForge Platform</a><br/>
+<a href="https://github.com/temitayocharles/python-demoapp">� Python Container Demo</a><br/>
+<a href="https://github.com/temitayocharles/ultimate-devops-site">�️ Ultimate DevOps Site</a>
 </td>
 <td align="center" width="50%">
 <h4>☸️ Kubernetes & Orchestration</h4>
-<a href="https://github.com/temitayocharles/stack-to-k8s">🎯 Production K8s Labs</a><br/>
 <a href="https://github.com/temitayocharles/Fast-Kubernetes">📚 K8s Learning Hub</a><br/>
-<a href="https://github.com/temitayocharles/hello-k8s">🚀 K8s Hello World</a><br/>
-<a href="https://github.com/temitayocharles/metric-server">📊 Custom Metrics</a>
+<a href="https://github.com/temitayocharles/hello-k8s">� K8s Hello World</a><br/>
+<a href="https://github.com/temitayocharles/devops-exercises">� DevOps Interview Prep</a><br/>
+<a href="https://hub.docker.com/u/temitayocharles">� Docker Hub Images</a>
 </td>
 </tr>
 <tr>
@@ -207,14 +207,14 @@ const temitayo = {
 <h4>🌐 Web & Applications</h4>
 <a href="https://github.com/temitayocharles/temitayocharles.github.io">🎨 Portfolio Landing</a><br/>
 <a href="https://github.com/temitayocharles/virtual-vacation">🌍 Virtual Tourism</a><br/>
-<a href="https://github.com/temitayocharles/foodshare-app">🍽️ Food Sharing App</a><br/>
-<a href="https://github.com/temitayocharles/ultimate-devops-site">🎯 DevOps Hub</a>
+<a href="https://github.com/temitayocharles/ultimate-devops-site">� DevOps Hub</a><br/>
+<a href="https://github.com/temitayocharles/infraforge-website">�️ Platform Website</a>
 </td>
 <td align="center" width="50%">
 <h4>📚 Learning & Resources</h4>
 <a href="https://github.com/temitayocharles/devops-exercises">💼 Interview Prep</a><br/>
-<a href="https://github.com/temitayocharles/tca-infraforge-k8s-documentation">📖 K8s Docs</a><br/>
-<a href="https://github.com/temitayocharles/infraforge-website">🌐 Platform Website</a><br/>
+<a href="https://github.com/temitayocharles/Fast-Kubernetes">📖 K8s Learning</a><br/>
+<a href="https://github.com/temitayocharles/python-demoapp">🐍 Python Demo</a><br/>
 <a href="https://hub.docker.com/u/temitayocharles">🐳 Docker Hub</a>
 </td>
 </tr>
@@ -343,7 +343,9 @@ Go Development        ███████████████████�
   
 ## 🐍 Contribution Snake
 
-<img alt="Snake animation" src="https://github.com/temitayocharles/temitayocharles/blob/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake animation" src="https://github.com/temitayocharles/temitayocharles/blob/output/github-contribution-grid-snake.svg" />
+
+*Note: The snake animation will appear once you set up GitHub Actions workflow for it.*
 
 </div>
 

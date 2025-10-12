@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Container+Specialist+%F0%9F%90%B3;Cloud+Architecture+Enthusiast+%E2%98%81%EF%B8%8F;Automation+%26+CI%2FCD+Expert+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=DevOps+Engineer+%26+Container+Specialist+🐳;Cloud+Architecture+Enthusiast+☁️;Automation+%26+CI/CD+Expert+🚀;Open+Source+Contributor+🌟;Docker+%26+Kubernetes+Master+⚡;Infrastructure+as+Code+Advocate+📋)
 
 </div>
 
@@ -67,15 +67,15 @@ I'm a passionate **DevOps Engineer** and **Container Specialist** who transforms
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=temitayocharles&show_icons=true&theme=gradient&hide_border=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=temitayocharles&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitayocharles&layout=compact&theme=gradient&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitayocharles&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temitayocharles&theme=dark&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667eea&sideLabels=667eea&dates=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temitayocharles&theme=radical&hide_border=true)
 
 </div>
 
@@ -84,11 +84,11 @@ I'm a passionate **DevOps Engineer** and **Container Specialist** who transforms
 <div align="center">
 
 <a href="https://github.com/temitayocharles/ultimate-devops-container">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=ultimate-devops-container&theme=gradient&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=ultimate-devops-container&theme=radical&hide_border=true" alt="Ultimate DevOps Container" />
 </a>
 
 <a href="https://github.com/temitayocharles/devops-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=devops-portfolio&theme=gradient&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=devops-portfolio&theme=radical&hide_border=true" alt="DevOps Portfolio" />
 </a>
 
 </div>
@@ -105,7 +105,7 @@ I'm a passionate **DevOps Engineer** and **Container Specialist** who transforms
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=temitayocharles&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=temitayocharles&theme=react-dark&hide_border=true&area=true)
 
 </div>
 

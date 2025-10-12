@@ -165,10 +165,58 @@ const temitayo = {
   <a href="https://github.com/temitayocharles/devops-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=devops-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
+  <a href="https://github.com/temitayocharles/stack-to-k8s">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=stack-to-k8s&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/temitayocharles/Fast-Kubernetes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=Fast-Kubernetes&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
+  </a>
   <a href="https://github.com/temitayocharles/temitayocharles.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=temitayocharles.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
 </div>
+
+### 🚀 Repository Categories
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h4>🏗️ Infrastructure & Automation</h4>
+<a href="https://github.com/temitayocharles/devops-portfolio">📂 DevOps Portfolio</a><br/>
+<a href="https://github.com/temitayocharles/TCA-InfraForge-GitOps">🔄 GitOps Pipeline</a><br/>
+<a href="https://github.com/temitayocharles/DockerNet-tca-infraforge">🐳 Docker Networking</a><br/>
+<a href="https://github.com/temitayocharles/python-demoapp">🐍 Python Container Demo</a>
+</td>
+<td align="center" width="50%">
+<h4>☸️ Kubernetes & Orchestration</h4>
+<a href="https://github.com/temitayocharles/stack-to-k8s">🎯 Production K8s Labs</a><br/>
+<a href="https://github.com/temitayocharles/Fast-Kubernetes">📚 K8s Learning Hub</a><br/>
+<a href="https://github.com/temitayocharles/hello-k8s">🚀 K8s Hello World</a><br/>
+<a href="https://github.com/temitayocharles/metric-server">📊 Custom Metrics</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h4>🌐 Web & Applications</h4>
+<a href="https://github.com/temitayocharles/temitayocharles.github.io">🎨 Portfolio Landing</a><br/>
+<a href="https://github.com/temitayocharles/virtual-vacation">🌍 Virtual Tourism</a><br/>
+<a href="https://github.com/temitayocharles/foodshare-app">🍽️ Food Sharing App</a><br/>
+<a href="https://github.com/temitayocharles/ultimate-devops-site">🎯 DevOps Hub</a>
+</td>
+<td align="center" width="50%">
+<h4>📚 Learning & Resources</h4>
+<a href="https://github.com/temitayocharles/devops-exercises">💼 Interview Prep</a><br/>
+<a href="https://github.com/temitayocharles/tca-infraforge-k8s-documentation">📖 K8s Docs</a><br/>
+<a href="https://github.com/temitayocharles/infraforge-website">🌐 Platform Website</a><br/>
+<a href="https://hub.docker.com/u/temitayocharles">🐳 Docker Hub</a>
+</td>
+</tr>
+</table></div>
 
 ### 🚀 Project Roadmap
 

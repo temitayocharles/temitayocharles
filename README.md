@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=240&section=header&text=Temitayo%20Charles&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20and%20Container%20Specialist&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=240&section=header&text=Temitayo%20Charles&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20DevOps%20Architect%20and%20Infrastructure%20Engineer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=800&height=120&lines=🐳+Container+Specialist+%26+DevOps+Engineer;☁️+Multi-Cloud+Architecture+Expert;🚀+CI%2FCD+Pipeline+Automation+Master;⚡+Kubernetes+%26+Infrastructure+Guru;🛡️+Security+%26+Compliance+Advocate;🌟+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=700&height=100&lines=Senior+DevOps+Architect;Production+Infrastructure+Engineer;Enterprise+Cloud+Solutions+Expert;Platform+Engineering+Specialist;Site+Reliability+Engineering+Leader;DevSecOps+and+Automation+Architect" />
   
   <br/>
   
@@ -28,27 +28,29 @@
 ```typescript
 const temitayo = {
     pronouns: "He/Him",
-    role: "DevOps Engineer & Container Specialist",
-    location: "Building the future, one container at a time 🌍",
+    role: "Senior DevOps Architect & Infrastructure Engineer",
+    location: "Architecting enterprise solutions at scale 🌍",
     
     currentlyWorkingOn: {
-        🐳: "Ultimate DevOps Container (30+ tools)",
+        🏗️: "Enterprise-grade platform engineering",
         ☁️: "Multi-cloud infrastructure automation",
-        🚀: "CI/CD pipeline optimization",
-        📊: "Observability & monitoring solutions"
+        🚀: "Production-ready CI/CD ecosystems",
+        📊: "Observability & SRE implementations",
+        🛡️: "Zero-trust security architectures"
     },
     
     expertise: [
-        "🐳 Docker & Containerization",
-        "☸️ Kubernetes Orchestration", 
-        "☁️ AWS, Azure, GCP",
-        "🏗️ Infrastructure as Code",
-        "🔄 CI/CD Automation",
-        "📊 Monitoring & Observability",
-        "🛡️ Security & Compliance"
+        "🏗️ Platform Engineering & Architecture",
+        "☁️ Enterprise Cloud Solutions (AWS, Azure, GCP)",
+        "🚀 Site Reliability Engineering (SRE)",
+        "⚡ Infrastructure as Code & Automation",
+        "🔄 DevSecOps & Compliance Frameworks",
+        "📊 Observability & Performance Engineering",
+        "🛡️ Security & Governance at Scale"
     ],
     
-    funFact: "I can automate anything... except my coffee addiction ☕"
+    impact: "Scaling infrastructure from startups to Fortune 500",
+    funFact: "I automate production systems that never sleep... unlike me ☕"
 };
 ```
 
@@ -341,11 +343,7 @@ Go Development        ███████████████████�
   
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/temitayocharles/temitayocharles/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/temitayocharles/temitayocharles/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/temitayocharles/temitayocharles/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="Snake animation" src="https://github.com/temitayocharles/temitayocharles/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -355,7 +353,7 @@ Go Development        ███████████████████�
   
   <br/>
   
-  **✨ "Transforming development workflows, one container at a time!" ✨**
+  **✨ "Architecting resilient systems that scale beyond imagination!" ✨**
   
   <br/>
   

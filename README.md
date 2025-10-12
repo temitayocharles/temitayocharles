@@ -83,15 +83,22 @@ I'm a passionate **DevOps Engineer** and **Container Specialist** who transforms
 
 <div align="center">
 
-<a href="https://github.com/temitayocharles/ultimate-devops-container">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=ultimate-devops-container&theme=radical&hide_border=true" alt="Ultimate DevOps Container" />
-</a>
-
 <a href="https://github.com/temitayocharles/devops-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=devops-portfolio&theme=radical&hide_border=true" alt="DevOps Portfolio" />
 </a>
 
+<a href="https://github.com/temitayocharles/temitayocharles.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=temitayocharles.github.io&theme=radical&hide_border=true" alt="GitHub Landing Page" />
+</a>
+
 </div>
+
+### 🌟 Additional Projects
+
+- 🐳 **Ultimate DevOps Container**: All-in-one containerized environment with 30+ DevOps tools *(Coming Soon)*
+- ☁️ **Multi-Cloud Infrastructure Templates**: Terraform modules for AWS, Azure, and GCP *(In Development)*
+- 🚀 **CI/CD Pipeline Templates**: Reusable GitHub Actions and GitLab CI workflows *(Planning)*
+- 📊 **Monitoring Stack**: Complete observability solution with Prometheus, Grafana, and ELK *(Upcoming)*
 
 ## 🏆 Achievements & Recognition
 
@@ -111,10 +118,12 @@ I'm a passionate **DevOps Engineer** and **Container Specialist** who transforms
 
 ## 💡 What I'm Currently Building
 
-- 🐳 **Ultimate DevOps Container**: All-in-one containerized environment with 30+ DevOps tools
-- ☁️ **Multi-Cloud Infrastructure Templates**: Terraform modules for AWS, Azure, and GCP
-- 🚀 **CI/CD Pipeline Templates**: Reusable GitHub Actions and GitLab CI workflows
-- 📊 **Monitoring Stack**: Complete observability solution with Prometheus, Grafana, and ELK
+- 🌐 **GitHub Landing Page**: Beautiful, responsive landing page with animations and modern design
+- � **DevOps Portfolio**: Comprehensive showcase of projects, tools, and expertise  
+- �🐳 **Ultimate DevOps Container**: All-in-one containerized environment with 30+ DevOps tools *(Planning)*
+- ☁️ **Multi-Cloud Infrastructure Templates**: Terraform modules for AWS, Azure, and GCP *(In Development)*
+- 🚀 **CI/CD Pipeline Templates**: Reusable GitHub Actions and GitLab CI workflows *(Upcoming)*
+- 📊 **Monitoring Stack**: Complete observability solution with Prometheus, Grafana, and ELK *(Future Project)*
 
 ## 🤝 Let's Connect!
 

@@ -363,3 +363,33 @@ Go Development        ███████████████████�
   <img src="https://img.shields.io/badge/Powered_by-DevOps_Magic-blue?style=for-the-badge" />
   
 </div>
+
+## Platform Dependency Ladder (Canonical)
+
+### Core Repositories
+- [`terraform-module`](https://github.com/temitayocharles/terraform-module)
+- [`infra-environments`](https://github.com/temitayocharles/infra-environments)
+- [`vault-ops`](https://github.com/temitayocharles/vault-ops)
+- [`configurations`](https://github.com/temitayocharles/configurations)
+- [`shared-workflows`](https://github.com/temitayocharles/shared-workflows)
+- [`helm-charts`](https://github.com/temitayocharles/helm-charts)
+- [`platform-gitops`](https://github.com/temitayocharles/platform-gitops)
+
+### Architecture Graph
+```mermaid
+flowchart TD
+  TM["terraform-module"] --> IE["infra-environments"]
+  VO["vault-ops"] --> CFG["configurations"]
+  VO --> SW["shared-workflows"]
+  CFG --> HC["helm-charts"]
+  VO --> HC
+  HC --> PG["platform-gitops"]
+  CFG --> PG
+  VO --> PG
+  SW --> PG
+```
+
+### Notes
+- Animated Lucidchart/draw.io-style arrows are not natively rendered on GitHub profile markdown.
+- Mermaid is used for a portable, version-controlled architecture source.
+- If needed, you can export a draw.io/Lucidchart diagram as GIF and embed it here.

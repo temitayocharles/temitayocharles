@@ -366,6 +366,8 @@ Go Development        ███████████████████�
 
 ## Platform Dependency Ladder (Canonical)
 
+![Dependency Ladder Animation](./assets/dependency-ladder.gif)
+
 ### Core Repositories
 - [`terraform-module`](https://github.com/temitayocharles/terraform-module)
 - [`infra-environments`](https://github.com/temitayocharles/infra-environments)

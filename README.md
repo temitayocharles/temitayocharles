@@ -161,6 +161,18 @@ const temitayo = {
 <!-- Featured Projects with Enhanced Design -->
 <div align="center">
   
+
+## Canonical Active Platform Repos
+
+- [platform-gitops](https://github.com/temitayocharles/platform-gitops)
+- [helm-charts](https://github.com/temitayocharles/helm-charts)
+- [configurations](https://github.com/temitayocharles/configurations)
+- [vault-ops](https://github.com/temitayocharles/vault-ops)
+- [shared-workflows](https://github.com/temitayocharles/shared-workflows)
+- [utilities-scripts](https://github.com/temitayocharles/utilities-scripts)
+- [terraform-module](https://github.com/temitayocharles/terraform-module)
+- [infra-environments](https://github.com/temitayocharles/infra-environments)
+
 ## 🎯 Featured Projects & Repositories
 
 <div align="center">
@@ -178,7 +190,7 @@ const temitayo = {
   <a href="https://github.com/temitayocharles/Fast-Kubernetes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=Fast-Kubernetes&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
-  <a href="https://github.com/temitayocharles/ultimate-devops-site">
+  <a href="https://github.com/temitayocharles/ultimate-devops-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=temitayocharles&repo=ultimate-devops-site&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb" />
   </a>
 </div>
@@ -190,15 +202,15 @@ const temitayo = {
 <td align="center" width="50%">
 <h4>🏗️ Infrastructure & Automation</h4>
 <a href="https://github.com/temitayocharles/devops-portfolio">📂 DevOps Portfolio</a><br/>
-<a href="https://github.com/temitayocharles/infraforge-website">🌐 InfraForge Platform</a><br/>
-<a href="https://github.com/temitayocharles/python-demoapp">� Python Container Demo</a><br/>
-<a href="https://github.com/temitayocharles/ultimate-devops-site">�️ Ultimate DevOps Site</a>
+<a href="https://github.com/temitayocharles/platform-gitops">🌐 InfraForge Platform</a><br/>
+<a href="https://github.com/temitayocharles/utilities-scripts">� Python Container Demo</a><br/>
+<a href="https://github.com/temitayocharles/ultimate-devops-platform">�️ Ultimate DevOps Site</a>
 </td>
 <td align="center" width="50%">
 <h4>☸️ Kubernetes & Orchestration</h4>
 <a href="https://github.com/temitayocharles/Fast-Kubernetes">📚 K8s Learning Hub</a><br/>
 <a href="https://github.com/temitayocharles/hello-k8s">� K8s Hello World</a><br/>
-<a href="https://github.com/temitayocharles/devops-exercises">� DevOps Interview Prep</a><br/>
+<a href="https://github.com/temitayocharles/kubernetes-practice-lab">� DevOps Interview Prep</a><br/>
 <a href="https://hub.docker.com/u/temitayocharles">� Docker Hub Images</a>
 </td>
 </tr>
@@ -207,14 +219,14 @@ const temitayo = {
 <h4>🌐 Web & Applications</h4>
 <a href="https://github.com/temitayocharles/temitayocharles.github.io">🎨 Portfolio Landing</a><br/>
 <a href="https://github.com/temitayocharles/virtual-vacation">🌍 Virtual Tourism</a><br/>
-<a href="https://github.com/temitayocharles/ultimate-devops-site">� DevOps Hub</a><br/>
-<a href="https://github.com/temitayocharles/infraforge-website">�️ Platform Website</a>
+<a href="https://github.com/temitayocharles/ultimate-devops-platform">� DevOps Hub</a><br/>
+<a href="https://github.com/temitayocharles/platform-gitops">�️ Platform Website</a>
 </td>
 <td align="center" width="50%">
 <h4>📚 Learning & Resources</h4>
-<a href="https://github.com/temitayocharles/devops-exercises">💼 Interview Prep</a><br/>
+<a href="https://github.com/temitayocharles/kubernetes-practice-lab">💼 Interview Prep</a><br/>
 <a href="https://github.com/temitayocharles/Fast-Kubernetes">📖 K8s Learning</a><br/>
-<a href="https://github.com/temitayocharles/python-demoapp">🐍 Python Demo</a><br/>
+<a href="https://github.com/temitayocharles/utilities-scripts">🐍 Python Demo</a><br/>
 <a href="https://hub.docker.com/u/temitayocharles">🐳 Docker Hub</a>
 </td>
 </tr>

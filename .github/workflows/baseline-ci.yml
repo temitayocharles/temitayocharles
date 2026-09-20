@@ -1,4 +1,4 @@
-name: Baseline CI
+name: Profile Integrity
 
 on:
   push:
@@ -10,5 +10,43 @@ permissions:
   contents: read
 
 jobs:
-  baseline:
-    uses: temitayocharles/shared-workflows/.github/workflows/baseline-reusable.yml@main
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate public profile surface
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s README.md
+          test -s SECURITY.md
+          test -s LICENSE
+          grep -Fq "AI-native Platform / DevOps / SRE Engineer" README.md
+          grep -Fq "Forward Deployed AI & Platform Engineering" README.md
+          grep -Fq "https://github.com/temitayocharles/tayoca-control-center" README.md
+          if grep -Eqi '(api[_-]?key|token|password|secret)[[:space:]]*[:=][[:space:]]*[^<[:space:]]{8,}' README.md SECURITY.md; then
+            echo "Potential secret-like value found in public profile text."
+            exit 1
+          fi
+
+      - name: Check referenced public evidence links
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import urllib.request
+          urls = [
+              "https://github.com/temitayocharles/tayoca-control-center",
+              "https://github.com/temitayocharles/sivanta-web-context-fixtures",
+              "https://tayoca.com",
+          ]
+          for url in urls:
+              req = urllib.request.Request(url, headers={"User-Agent": "profile-integrity-ci"})
+              with urllib.request.urlopen(req, timeout=20) as response:
+                  if response.status >= 400:
+                      raise SystemExit(f"{url} returned HTTP {response.status}")
+              print(f"OK {url}")
+          PY

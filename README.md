@@ -26,21 +26,16 @@ My strongest work happens where several systems have to operate as one productio
 - **Design for day two:** observability, recovery, rollback, runbooks, and ownership are part of delivery.
 - **Security boundaries stay visible:** secrets and privileged actions remain separated from diagnostic output.
 
-## Selected platform work
+## Selected engineering evidence
 
-My connected engineering estate includes work across GitOps control planes, shared Helm and Terraform assets, Vault-backed secrets, repository automation, observability, n8n orchestration, RAG systems, agent gateways, and product/platform applications.
+My broader engineering estate includes private and canonical source-control work across GitOps control planes, Helm/Terraform assets, Vault-backed secrets, observability, n8n orchestration, RAG systems and agent gateways.
 
-Representative repositories include:
+Public evidence currently available on GitHub:
 
-- `platform-gitops`
-- `helm-charts`
-- `vault-ops`
-- `homelab-gitops`
-- `infraforge-tofu`
-- `rag-system`
-- `sivanta-agent-platform`
-- `agent-social-gateway`
-- `ai-workspace-control`
+- [Tayoca Control Center](https://github.com/temitayocharles/tayoca-control-center) — secure TypeScript operator console for Tayoca content and n8n operations, with server-side credential boundaries, Forgejo-backed content control and fail-closed production access.
+- [Sivanta Web Context Fixtures](https://github.com/temitayocharles/sivanta-web-context-fixtures) — deterministic non-secret fixtures used for runtime certification.
+
+Additional platform, GitOps, Vault, RAG and agent-system repositories are private or mirrored from canonical Forgejo sources and can be discussed where appropriate.
 
 ## Professional positioning
 
